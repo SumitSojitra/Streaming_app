@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "img": "assets/images/page1/snaxtm.png",
+      "dp": "assets/images/page1/snaxdp.png",
+      "title": "SnaxGaming",
+      "subtitle": "BGMI Rank Push",
+      "video" : "assets/videos/snax.mp4"
+    },
+    {
+      "img": "assets/images/page1/goblintm.png",
+      "dp": "assets/images/page1/goblindp.png",
+      "title": "SouLGoBLIN",
+      "subtitle": "Scrims Live With SouLGoBLIN",
+      "video" : "assets/videos/goblin.mp4"
+    },
+    {
+      "img": "assets/images/page1/jokertm.png",
+      "dp": "assets/images/page1/jokerdp.png",
+      "title": "jokerkihaveli",
+      "subtitle": "GULLU DADA IN THE CITY",
+      "video" : "assets/videos/joker.mp4"
+    }
+  ]
+}

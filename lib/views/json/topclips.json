@@ -1,0 +1,28 @@
+{
+  "data"  : [
+    {
+      "img": "assets/images/Rectangle18.png",
+      "dp": "assets/images/page1/Ellipse3.png",
+      "title": "EMPIRE_SQUAD",
+      "subtitle": "Empire op bolte"
+    },
+    {
+      "img": "assets/images/page1/dark.png",
+      "dp": "assets/images/page1/Ellipse3(1).png",
+      "title": "DARKGAMERZONE",
+      "subtitle": "IMPOSSIBLE"
+    },
+    {
+      "img": "assets/images/page1/gta.png",
+      "dp": "assets/images/page1/gtadp.png",
+      "title": "TSGARMY01",
+      "subtitle": "GTA_V_"
+    },
+    {
+      "img": "assets/images/page1/pvp.png",
+      "dp": "assets/images/page1/pvpdp.png",
+      "title": "veterangaming",
+      "subtitle": "Savage - a PVP"
+    }
+  ]
+}
